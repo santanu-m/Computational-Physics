@@ -1,0 +1,14 @@
+Assignment 2 Question 5
+
+In our exploration of numerical fluid dynamics, several enlightening case studies have been presented. From these, I believe we can distill a few overarching conclusions.
+
+On Mathematical Rigor: The ambition to elevate fluid dynamics to the level of mathematical precision found in disciplines such as geometry or celestial mechanics faces significant challenges. Notably:Current computational power, even if scaled up tenfold from that of 1945, still grapples with only a handful of fluid mechanics problems when approached with strict rigor.Therefore, it seems improbable that numerical fluid dynamics will ascend to the status of a purely mathematical science in the foreseeable future.
+
+Towards an Exact Physical Science: The trajectory thus far suggests that:
+The integration of numerical outputs from modern computation with traditional analytical methods has expanded our capability to describe fluid flows far beyond the realm analytically tractable.While invaluable in infinite domains, analytical methods alone are insufficient.
+Typically, accurate predictions hinge on the selection of an appropriate mathematical model and are confined to certain ranges of parameters such as Reynolds number (Re), Mach number (M), etc.Complex phenomena like flow separation and turbulence may continue to defy precise numerical characterization for years to come.
+
+Engineering Utility: From an engineering perspective, numerical fluid dynamics is undeniably beneficial.
+Expert interpretation of numerical and graphical computer outputs can significantly inform the design of systems to control and utilize fluid flows.In time, computational simulations may even rival the utility of wind tunnels, though both remain critical to aeronautical research.
+
+Future Considerations: Advocates for numerical fluid dynamics should strive to communicate the constraints (including statistical uncertainties) as well as the advantages of their models with greater clarity.
